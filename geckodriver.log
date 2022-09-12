@@ -1,0 +1,35 @@
+1663013241561	geckodriver	INFO	Listening on 127.0.0.1:59387
+1663013244710	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileG5MXu8"
+1663013248349	Marionette	INFO	Marionette enabled
+1663013248360	Marionette	INFO	Listening on port 59399
+Read port: 59399
+WebDriver BiDi listening on ws://127.0.0.1:59388
+1663013249169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileG5MXu8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59388/devtools/browser/8ff3dbeb-ec41-405e-9489-703d67feb14e
+1663013396307	Marionette	INFO	Stopped listening on port 59399
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Local\\Temp\\rust_mozprofileoDbBFr"
+1663013335348	Marionette	INFO	Marionette enabled
+1663013335356	Marionette	INFO	Listening on port 59444
+Read port: 59444
+WebDriver BiDi listening on ws://127.0.0.1:59435
+1663013335710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofileoDbBFr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59435/devtools/browser/24f9b8db-555f-415a-9e5e-99909d46c50b
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 249: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 6160 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663013397357	Marionette	INFO	Stopped listening on port 59444
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\asus\AppData\Local\Temp\rust_mozprofileoDbBFr\protections.sqlite
+file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\asus\\AppData\\Local\\Temp\\rust_mozprofilePD7FFF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59546/devtools/browser/55d3138d-86fc-477b-86a4-6dcf19f5b60e
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6188473808538246, line 249: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1663013389750	Marionette	INFO	Stopped listening on port 59555
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
